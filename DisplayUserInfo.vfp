@@ -1,0 +1,12 @@
+<apex:page showHeader="false">
+    <h1>
+        Dynamically present the username
+    </h1>
+    <apex:pageBlock title="Logged In-User">
+       <apex:pageBlockSection >
+            {! $User.FirstName}
+           
+        </apex:pageBlockSection>
+       
+    </apex:pageBlock>
+</apex:page>

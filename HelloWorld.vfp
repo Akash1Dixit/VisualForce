@@ -1,0 +1,12 @@
+<apex:page >
+    <h1>
+        HelloWorld!!
+    </h1>
+    <apex:pageBlock title="first blog">
+        <apex:pageBlockSection >Linux is a Open-source</apex:pageBlockSection>
+        
+            <apex:pageBlockButtons title="new section">This all about the LARAVEL</apex:pageBlockButtons>
+      
+    </apex:pageBlock>
+
+</apex:page>
